@@ -23,12 +23,12 @@ lamda = np.zeros((10,size*size), dtype=np.float64)
 eig_vec = np.zeros((10,size*size,size*size), dtype=np.float64)
 
 # fig以下の画像を削除（MS-Windows）
-os.system("del /Q fig\*")
+# os.system("del /Q fig\*")
 
 # 学習データの読み込み
 for i in range(10):
     for j in range(1,train_num+1):
-        train_file = "mnist/train/" + str(i) + "/" + str(i) + "_" + str(j) + ".jpg"
+        train_file = "../mnist/train/" + str(i) + "/" + str(i) + "_" + str(j) + ".jpg"
         work_img = Image.open(train_file).convert('L')
 
         # 画像の大きさを変更
@@ -72,7 +72,7 @@ D = 60
 for i in range(10):
     for j in range(1,train_num+1):
         # テストデータの読み込み
-        pat_file = "mnist/test/" + str(i) + "/" + str(i) + "_" + str(j) + ".jpg"
+        pat_file = "../mnist/test/" + str(i) + "/" + str(i) + "_" + str(j) + ".jpg"
         work_img = Image.open(pat_file).convert('L')
         resize_img = work_img.resize((size, size))
         pat_vec = np.asarray(resize_img).astype(np.float64).flatten()
