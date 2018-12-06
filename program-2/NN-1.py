@@ -4,8 +4,6 @@
 
 import sys
 import os
-import argparse
-
 import numpy as np
 from PIL import Image
 
@@ -16,7 +14,7 @@ train_img = np.zeros((10,train_num,28,28), dtype=np.float32)
 # プロトタイプの読み込み
 for i in range(10):
     for j in range(1,train_num+1):
-        train_file = "mnist/train/" + str(i) + "/" + str(i) + "_" + str(j) + ".jpg"
+        train_file = "../mnist/train/" + str(i) + "/" + str(i) + "_" + str(j) + ".jpg"
         train_img[i][j-1] = np.asarray(Image.open(train_file).convert('L')).astype(np.float32)
 
 # 混合行列
@@ -24,7 +22,7 @@ result = np.zeros((10,10), dtype=np.int32)
 for i in range(10):
     for j in range(1,101):
         # 未知パターンの読み込み
-        pat_file = "mnist/test/" + str(i) + "/" + str(i) + "_" + str(j) + ".jpg"
+        pat_file = "../mnist/test/" + str(i) + "/" + str(i) + "_" + str(j) + ".jpg"
         pat_img = np.asarray(Image.open(pat_file).convert('L')).astype(np.float32)
 
         min_val = float('inf')
@@ -50,14 +48,3 @@ print( "\n [ 混合行列 ]" )
 print( result )
 print( "\n 正解数 -> " , np.trace(result) )
 
-
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='K-nearest')
-    parser.add_argument('k', metavar='K', type=int, default=1,
-                        help='an integer for the accumulator')
-    
-    args = parser.parse_args()
-
-    k = args.k
-
-    print(k)
