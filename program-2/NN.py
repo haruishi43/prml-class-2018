@@ -32,7 +32,7 @@ for i in range(10):
             # SSDの計算
             t = train_img[k].flatten()
             p = pat_img.flatten()
-            dist = np.dot( (t-p).T , (t-p) )
+            dist = np.dot( (t-p).T , (t-p) )  # ssd
 
             # 最小値の探索
             if dist < min_val:

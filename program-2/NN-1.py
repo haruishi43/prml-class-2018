@@ -4,6 +4,8 @@
 
 import sys
 import os
+import argparse
+
 import numpy as np
 from PIL import Image
 
@@ -48,3 +50,14 @@ print( "\n [ 混合行列 ]" )
 print( result )
 print( "\n 正解数 -> " , np.trace(result) )
 
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='K-nearest')
+    parser.add_argument('k', metavar='K', type=int, default=1,
+                        help='an integer for the accumulator')
+    
+    args = parser.parse_args()
+
+    k = args.k
+
+    print(k)
