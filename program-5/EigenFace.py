@@ -35,7 +35,7 @@ eig_vec = np.zeros((class_num,size*size,size*size), dtype=np.float64)
 D = int( input( " D? > " ) )
 
 # fig以下の画像を削除（MS-Windows）
-os.system("del /Q fig\*")
+# os.system("del /Q fig\*")
 
 # データの読み込み
 dir = [ "Male" , "Female" ]
