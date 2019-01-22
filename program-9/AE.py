@@ -142,7 +142,7 @@ def Read_data( flag ):
     for i in range(class_num):
         for j in range(1,train_num+1):
             # グレースケール画像で読み込み→大きさの変更→numpyに変換，ベクトル化
-            train_file = "mnist/" + dir[ flag ] + "/" + str(i) + "/" + str(i) + "_" + str(j) + ".jpg"
+            train_file = "../mnist/" + dir[ flag ] + "/" + str(i) + "/" + str(i) + "_" + str(j) + ".jpg"
             work_img = Image.open(train_file).convert('L')
             resize_img = work_img.resize((size, size))
             data_vec[i][j-1] = np.asarray(resize_img).astype(np.float64).flatten()

@@ -1,6 +1,7 @@
 .DS_Store
 
 program-3/fig/*
+cifar-10
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
