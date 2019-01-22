@@ -1,0 +1,1000 @@
+﻿The footstep was that of a teacher . <eos>
+His voice is louder than that of mine . <eos>
+My room is bigger than that of John's . <eos>
+His house is connected to that of Linda's . <eos>
+The voice was that of a singer . <eos>
+The smell was that of mother's pie . <eos>
+His house is larger than that of mine . <eos>
+Her foot is smaller than that of his . <eos>
+His is different than that of Miranda's . <eos>
+Liam's pie is better than that of Kyle's . <eos>
+The population of China is bigger than that of Japan . <eos>
+The climate here is very different from that of Sweden . <eos>
+Ryan's final score exceeds that of Robert's by 100 points . <eos>
+The work done here was that of Japanese craftsmen . <eos>
+The style of painting is similar to that of Picasso . <eos>
+His political view is very different from that of his parents . <eos>
+The way he speaks is similar to that of his sister . <eos>
+His determination was similar to that of a world leader . <eos>
+Amanda's costume was almost identical to that of Tasha's . <eos>
+His laugh was identical to that of his twin brother's . <eos>
+The conservative nature of the people of Japan is similar to that of a lot of other Asian countries . <eos>
+The food cooked by Aunt Suzy was extremely delicious and was similar to that of a five star chef . <eos>
+The way John played soccer was very skillful, and his style was very similar to that of Messi . <eos>
+He was so good at playing the piano, listening to him was the equivalent to that of a professional pianist . <eos>
+Japanese people, like that of American people, are very gourmet and enjoy exploring food from different parts of the world . <eos>
+Everyone knew that the loud sound coming from next door was that of Tom's guitar . <eos>
+Although her parents could not run, Anna was so good at running that it was similar to that of a professional track star . <eos>
+Although Ian is only 10 years old, his artwork is so refined and unique that it is almost better than that of professional artists . <eos>
+His style of dancing is very interesting because it is similar to that of a ballerina, but has the vigor and energy of hip hop . <eos>
+At first his opinion was always similar to that of his siblings, but as he grew older, he soon started developing his own, different opinions . <eos>
+He bought one . <eos>
+Sam got one . <eos>
+Linda built one very quickly . <eos>
+She wanted to eat one later . <eos>
+She took one and left . <eos>
+He finally got one from his mother . <eos>
+He got one and started eating it . <eos>
+I don't have one . <eos>
+He has one too . <eos>
+She finally found one . <eos>
+He needed one in order to be friends with Tom . <eos>
+There was one on the next street . <eos>
+One gave her flowers and one gave her chocolate . <eos>
+Many dogs were asleep but I found one that was awake . <eos>
+He took one from the shelf and left the kitchen . <eos>
+Can I have one for the next class?
+I'll just take one and leave the rest for you . <eos>
+She found one in her pocket but decided to keep it a secret . <eos>
+They were all cheap, except for one which was quite expensive . <eos>
+Although I saved a lot of money, I couldn't buy one . <eos>
+All the students were all there except for one, so the teacher started panicking . <eos>
+There are many local restaurants in NYC that celebrities often visit, and among them I have been to one in Brooklyn . <eos>
+Even if we were to combine all of our salaries together, we could never afford one . <eos>
+Not all people have one but I'm pretty sure if you are an American, it is likely that you will have a driver's license due to poor public transportation in the States . <eos>
+Most companies at the conference were from China or Korea, but there was one from Japan . <eos>
+If you need a taxi, you might find one down the street, but I would recommend walking to the next street . <eos>
+He loves action movies and there is one coming out soon that I know he will love for sure . <eos>
+Although Jake finally caught one he let it go because he felt bad . <eos>
+Finish eating the one on the table now and if you still want more I'll get you some . <eos>
+The restaurant next to our school is a popular one, and it is always busy with many students . <eos>
+Each person had a desk . <eos>
+Each child had a piece of cake . <eos>
+Each story is different from the others . <eos>
+Each room has an air conditioner . <eos>
+Each player on the team had different skills . <eos>
+Each lesson will cost you $50 . <eos>
+The children were each given one apple . <eos>
+Each team had a chance to play . <eos>
+Each student wore their uniform properly . <eos>
+Each sport has its pros and cons . <eos>
+Each student must talk for at least five minutes . <eos>
+Please give the same amount to each child . <eos>
+Each person must decide who to support in the election . <eos>
+Each college sent someone to represent their school . <eos>
+There was a parking space for each family member . <eos>
+Each bedroom in the house has its own private bathroom . <eos>
+Each of these countries has applied to host the Olympics . <eos>
+Each girl was given a beautiful sapphire necklace as a gift . <eos>
+In our neighborhood, each house has a large, beautiful garden . <eos>
+I bought a souvenir from each country that I visited this summer . <eos>
+My mother told me to think positively and think of each day as a new day full of opportunities . <eos>
+Each team is required to play five games in order to determine whether they can go to the finals or not . <eos>
+Each student is required to take general classes in addition to required classes according to their major . <eos>
+Each box contained something very important to child . <eos>
+In college, different schedules are given to students in each department . <eos>
+The master ordered the servants to save each letter he received very carefully . <eos>
+His wealth was reflected by the beautiful furniture in each room, which was from different parts of the world . <eos>
+Each ingredient in the vegetarian dish is organic and comes from a different store . <eos>
+Each medal and award reflects Jamie's skill and dedication in dancing . <eos>
+Every student finished the homework . <eos>
+Every parent loves their child . <eos>
+The train stopped at every station . <eos>
+Every student was afraid of Mr . <eos> Smith . <eos>
+Every child sat still . <eos>
+She took home every present she got . <eos>
+Their song was playing in almost every store . <eos>
+Every professor had to take attendance . <eos>
+I've read every book on the shelf . <eos>
+Every house looked beautiful . <eos>
+Every girl loved the new, British rock band . <eos>
+Every man in the room agreed to help rebuild the school . <eos>
+Every car goes through many tests and examinations before being sold . <eos>
+Every computer was going to be replaced with Apple computers . <eos>
+He has been to almost every country in the world . <eos>
+The room was so quiet I could hear every sound clearly . <eos>
+Every bee was working hard to make honey . <eos>
+She is such a good speaker I heard every single word . <eos>
+Every song the seniors sang at their graduation was beautiful . <eos>
+There were beautiful flowers in every room of the hospital . <eos>
+It seemed like when I visited Japan, every girl had dyed hair . <eos>
+Every good cook knows how to combine flavours to create delicious meals . <eos>
+Every store in Japan seemed to have wonderful lighting and decorations . <eos>
+Every child drank lots of water after they came back inside from playing outside . <eos>
+The news about the train crash was so big and devastating, it was in every newspaper . <eos>
+Every celebrity agrees that paparazzi can be extremely annoying and persistent . <eos>
+Every teacher should be determined to help their students improve and see them grow . <eos>
+Every neighbor cooperated in order to catch the culprit who kept taking everyone's flowers . <eos>
+Every politician must face harsh criticism and opposition from many people . <eos>
+There is no way he finished every assignment the professor gave us in that amount of time . <eos>
+All of them went home . <eos>
+All of you should leave . <eos>
+All of them are here . <eos>
+You must eat all of it . <eos>
+I can't finish all of this homework . <eos>
+I watched all of it . <eos>
+All of these stories are false . <eos>
+I can't read all of these books . <eos>
+She listened to all of the songs . <eos>
+She wanted all of it . <eos>
+I couldn't answer all of the questions . <eos>
+I couldn't finish watching all of the movies . <eos>
+She observed all of the people crossing the Shibuya cross walk . <eos>
+I knew all of them very well since middle school . <eos>
+All of the women in the room were dressed nicely . <eos>
+John was careless last night and lost all of his money . <eos>
+Not all of them wanted to keep playing . <eos>
+All of these are unfinished so you cannot go home . <eos>
+All of the children ate ice cream under the hot sun . <eos>
+There is no way I can take all of these home . <eos>
+All of these must either be sold or thrown away because we don't have space in our new house . <eos>
+All of the students were determined to finish finals and go home for summer break . <eos>
+All of the cleaners finished cleaning the hospital in a couple hours . <eos>
+The penguins were very adorable and all of them were swimming playfully . <eos>
+White tigers are very rare and if people don't stop hunting them, all of them would die . <eos>
+It was past 9 o'clock at night so all of the restaurants were closed . <eos>
+All of the professors got together at the end of the semester to discuss how their classes went and what they could improve on . <eos>
+My peers were listening to me seriously as I presented, and all of them were vigorously taking notes . <eos>
+All of the children laughed as they watched Mickey Mouse chase Donald Duck around the amusement park . <eos>
+All of them came back from France with many gifts for their friends and family . <eos>
+I bought both of them . <eos>
+Both of them came on time . <eos>
+They chased after both of us . <eos>
+Both of them looked like their mother . <eos>
+Both of them finished their homework . <eos>
+He spoke to both of us . <eos>
+I want to talk to both of you . <eos>
+Both of their families had dinner together . <eos>
+Both of you are late . <eos>
+He gave a gift to both of us . <eos>
+Both of them wanted to watch the TV . <eos>
+He glared at both of us and then slammed the door . <eos>
+I saw both of the cars ignore the stop light . <eos>
+Both of you must fill out the survey . <eos>
+Both of you can't go out until you finish your homework . <eos>
+Both of my grandparents passed away before I was born . <eos>
+Both of the singers were competing against each other . <eos>
+Both of them were determined to learn a new language . <eos>
+I trust you to keep both of us out of danger . <eos>
+Both of them watched the movie in amusement . <eos>
+I'll keep both of these in my room while you're out tonight . <eos>
+Lennie and Adam loved playing baseball, so both of them tried out for the team . <eos>
+Both of us were required to write a thorough report on our experimental procedure . <eos>
+Both of my friends will be studying abroad next year so I am a little sad . <eos>
+I remember Aunt Jess taking both of us to the movies every Saturday . <eos>
+It was wonderful to have both of you join us for dinner tonight . <eos>
+Both of my sisters go to college in the States so my parents feel like they only have one daughter . <eos>
+We were notified five minutes ago that both of them are safe and already at the hospital . <eos>
+Both of their families were very engaged in volunteer work, and often organized charity events . <eos>
+After Tom and John spent days persuading the president of the Japanese student organization at NYU, he finally agreed with both of them . <eos>
+Either Daniel or Liam will take you . <eos>
+Either of these will be fine . <eos>
+Have either of you seen Karen?
+You can't speak to either of them . <eos>
+I don't know either Emma or Amanda . <eos>
+Have you been to either France or Italy?
+I haven't seen either of them recently . <eos>
+Have either of you guys finished the homework?
+I don't agree with either of them . <eos>
+Either they leave or I will . <eos>
+Do you think we can ask either of them for advice?
+I don't think either case will fit that smartphone . <eos>
+I don't believe what either of the candidates are saying . <eos>
+No matter what they say, I don't trust either of them . <eos>
+I don't like either William or George because they are aggressive . <eos>
+Do you truly believe what either of them are saying?
+He obviously did not understand either of the assignments . <eos>
+I refused to take care of either Scott or Henry . <eos>
+Either finish now or do it tonight instead of going to the movie . <eos>
+By midnight, you must either be in bed or have a very good reason not to be . <eos>
+I don't think either of us will make it to the final round . <eos>
+He isn't on either Joanne or Lia's side because he wants to stay neutral . <eos>
+Either turn off the air conditioner or close the windows, but don't run it with the windows open . <eos>
+Either Mallory or John was going to be elected as the president of the book club . <eos>
+I don't think either of us truly wants to be here and listen to this boring lecture . <eos>
+I don't think either of those rules should apply under these circumstances . <eos>
+I don't believe that either of the two are involved much in the school play . <eos>
+Either get her this sweater or that wallet for her birthday because I know she'd like them . <eos>
+I need a new one . <eos>
+She has the old one . <eos>
+I want to have the blue one . <eos>
+He went to the smaller one . <eos>
+That movie is a good one . <eos>
+The storm is a bad one . <eos>
+The exam was a difficult one . <eos>
+She needs a better one . <eos>
+The fight was a violent one . <eos>
+It was a short one . <eos>
+The play we saw yesterday was a short one . <eos>
+The story about the ghost was a strange one . <eos>
+Since our oven broke we need to buy a new one . <eos>
+Remember, you must take the black one . <eos>
+Jamie's rock performance was an extremely loud one . <eos>
+Although both laptops worked well, we both wanted the newer one . <eos>
+She will be a good sister and a very loving one . <eos>
+The last fireworks display will be the biggest one . <eos>
+Although the movie was interesting, it was a long one . <eos>
+The book was short but a difficult one to read . <eos>
+Working with children was a challenging job but a fulfilling one too . <eos>
+Mrs . <eos> Warner's youngest daughter is always running around and is the most energetic one . <eos>
+Since this semester kept me very busy, I felt like it was a very short one . <eos>
+His argument was a practical one with actual, well supported evidence . <eos>
+I'm glad my roommate enjoyed her birthday party last night but it was a very noisy one . <eos>
+Although my summer break was three months long, to me it was a short one . <eos>
+The train was extremely old but it was still a very fast one . <eos>
+Both players were very skilled and the game was a close one . <eos>
+Megan, who never gives up, is the persistent one in our family . <eos>
+Although our group did not spend much money on our final science project, it was the best one . <eos>
+This one looks good . <eos>
+That one is mine . <eos>
+I think this one is Jamie's 
+It's next to that one . <eos>
+I know this one will be bad . <eos>
+I don't like that one . <eos>
+She doesn't want this one . <eos>
+I want the one from mom . <eos>
+I want the one on the left . <eos>
+He ate the one in the fridge . <eos>
+She didn't let anyone touch this one . <eos>
+The man on the far right was the one called Tom . <eos>
+My brother is the one with the red hair and glasses . <eos>
+This one is from my mother but that one is not . <eos>
+She found a hat identical to this one I'm wearing . <eos>
+They're too old and this one doesn't even work anymore . <eos>
+These are quite new except for that one on the edge . <eos>
+The one wearing the baseball hat would not stop talking . <eos>
+Although he's usually clueless, perhaps Edward knew about this one . <eos>
+There has never been a more romantic story than this one . <eos>
+His books are always sold out and this one is no exception . <eos>
+We will meet better, more intelligent people than the ones back in high school . <eos>
+After you're finished collecting all the samples, send that one back to the lab . <eos>
+Of all the stories she wrote, the best was the one about her mother's childhood adventures . <eos>
+Her favorite photo of her children was the one by her bedside . <eos>
+Those are all too sweet but surprisingly this one doesn't have much sugar at all . <eos>
+Ella has many cool cars but this one is especially unique and outstandingly attractive . <eos>
+Apparently this is John's fourth time remarrying, and he thinks this one will turn out well . <eos>
+There are many celebrations in Japan but this one is especially important and traditional . <eos>
+Let's do something . <eos>
+He looked like he wanted to say something . <eos>
+Would you like to drink something?
+Can you smell something burning?
+Something doesn't seem right . <eos>
+Wendy is very happy about something . <eos>
+John is upset about something . <eos>
+She's listening to something . <eos>
+Can I snack on something?
+The professor wanted to talk to me about something . <eos>
+Something made Liz burst out laughing in the middle of class . <eos>
+Don't be afraid to say something during the meeting . <eos>
+She wanted something from the store but she didn't have money . <eos>
+He did something that saved millions of people's lives . <eos>
+She needed something to boost her energy for the rest of the day . <eos>
+I think Megan may have eaten something that gave her really bad food poisoning . <eos>
+He needed something from his locker so he had to go back to school again . <eos>
+He always suggested something in meetings but his contributions were never taken seriously . <eos>
+There was something blocking the road which had caused a gigantic traffic jam . <eos>
+She didn't want anything . <eos>
+He couldn't say anything . <eos>
+I didn't finish anything . <eos>
+You didn't do anything . <eos>
+I don't want anything from here . <eos>
+I don't know anything about what happened . <eos>
+I can't do anything until I eat . <eos>
+He couldn't think of anything to say . <eos>
+He could eat anything . <eos>
+They never agreed on anything . <eos>
+It's too late to do anything now . <eos>
+She didn't want anything to do with him . <eos>
+The business trip didn't cost him anything because it was covered . <eos>
+We didn't do anything too exciting during spring break . <eos>
+He didn't have anything to do with the incident . <eos>
+It was anything but okay for him to say that . <eos>
+He couldn't say anything more about the issue because he was no longer involved . <eos>
+I eat anything but nuts because I have a severe allergic reaction to them . <eos>
+He knew that anything he did would make the situation worse, so he decided to quietly leave the room . <eos>
+Although the CEO was a very harsh man, I had over-heard him saying he wouldn't trade his children and wife for anything in the world . <eos>
+What he did was atrocious, anything he did afterwards just never appealed to anyone anymore . <eos>
+Can someone bring me water please?
+Is someone in there?
+Someone needs to pick her up . <eos>
+I think she is with someone . <eos>
+He was talking to someone earlier . <eos>
+We need someone to cover his shift . <eos>
+There is someone in here . <eos>
+Someone is watching us . <eos>
+I hear someone . <eos>
+Can we go and talk to someone?
+Someone was complaining about their job very loudly on the phone . <eos>
+Please have someone walk you back after the party . <eos>
+She felt someone tap her shoulder, but no one was there . <eos>
+Someone must surely be responsible for the graffiti on the wall . <eos>
+She needed someone to give her a ride to the airport . <eos>
+I disliked walking down dark streets because I always felt like someone was following me . <eos>
+Someone had told her that their boss was going to resign sometime within the next 3 months . <eos>
+She had heard someone talk about the new movie as if it were the best movie in history, but she had also heard others talk about how horrible it was . <eos>
+Luckily, someone had filmed the incident which led to the arrest of the criminal . <eos>
+They needed someone to monitor the students at all times during the exam, because of the increasing problem of students cheating . <eos>
+Is anyone home?
+Anyone can do that . <eos>
+They couldn't find anyone . <eos>
+I didn't see anyone . <eos>
+He never talked to anyone . <eos>
+Isn't anyone worried about this? 
+Anyone want to volunteer?
+Can anyone lend me a pencil? 
+Anyone can learn to cycle . <eos>
+Does anyone like him?
+Can anyone think of a solution to this problem? 
+I can't think of anyone else who would do it . <eos>
+Did you see anyone walking around this area last night? 
+Could anyone send me directions to the dinner party?
+Is there anyone who can drive me to the station? 
+It was an eerie feeling, because they couldn't find anyone in the building . <eos>
+She wondered if anyone had taken her bag by accident, because no matter how hard she searched she couldn't find it . <eos>
+The police asked around the neighborhood to see if anyone had seen or heard anything strange last Wednesday . <eos>
+She wasn't sure where and how to begin the investigation, given that anyone could have done it . <eos>
+It is highly unlikely that anyone would dare to disobey him because of his power and status . <eos>
+A cat will often catch a mouse . <eos>
+Mary found a mouse indoors . <eos>
+The mouse belongs to the rodent family . <eos>
+Jack kept a white mouse as a pet . <eos>
+A mouse is a very small animal . <eos>
+Mice are found almost everywhere . <eos>
+Most mice live in burrows . <eos>
+We saw many mice in the field . <eos>
+Life for mice is dangerous . <eos>
+Hawks eat mice . <eos>
+We saw a brown mouse run across the road . <eos>
+Sometimes a mouse is trained to perform in shows . <eos>
+In school we drew a cartoon of a very funny mouse . <eos>
+Bees and ants make more complex shelters than mice . <eos>
+Everyone knows that mice are very fond of cheese . <eos>
+Children everywhere often think mice are cute . <eos>
+There are brown, gray, white, and even black mice . <eos>
+Albert bought a picture-book with photos of mice . <eos>
+Mice are one of the oldest types of mammals on the Earth . <eos>
+Mice will run from the shadows of large birds . <eos>
+I have never seen anyone go to a Halloween party dressed like a mouse . <eos>
+The mouse in the story wore a bow-tie and a large, black top hat . <eos>
+Walt Disney's Mickey Mouse has a girlfriend named Minnie Mouse . <eos>
+Even if I were starving, I don't think I could ever eat a mouse . <eos>
+In the cartoon series, Tom and Jerry, Tom is a cat, and Jerry is a mouse . <eos>
+We have to do something about all of the mice that are living in the barn . <eos>
+Mice are very afraid of cats, but cats are very afraid of dogs . <eos>
+The mice were surprised by the three cats that ran around the side of the wall . <eos>
+If we were to find mice in the attic, what would you do, Jane?
+In the old kitchen the mice were getting into the oatmeal and cereal boxes . <eos>
+The snake was a foot long . <eos>
+A dog's foot is called a paw . <eos>
+Jane put medicine on her foot . <eos>
+He hurt his foot . <eos>
+There are twelve inches in a foot . <eos>
+You play kickball with your feet . <eos>
+Jack washed the mud off his feet . <eos>
+Don't put your feet on the furniture . <eos>
+Millipedes have one thousand feet . <eos>
+Larry's feet are very large . <eos>
+I put a bandage on the cut on my right foot . <eos>
+Slip your foot into the shoe, please . <eos>
+He felt a sharp pain in his foot when he stepped on the tack . <eos>
+He lifted one foot very high into the air . <eos>
+Bob hopped on one foot all the way down the street . <eos>
+In February, my feet get cold in bed at night . <eos>
+Kim is painting the toenails pink on both of her feet . <eos>
+You are so good with your feet that you should play soccer . <eos>
+Many animals walk or run using four feet . <eos>
+He likes to soak his feet in hot water in the winter . <eos>
+He broke his left foot while playing baseball and now can only watch the others play . <eos>
+I found the horseshoe that had fallen off of the small pony's foot . <eos>
+Peter's foot slipped when he was walking on the wet stones by the river . <eos>
+In many places around the world a rabbit's foot is thought to bring good luck . <eos>
+A duck's foot is yellow, or orange, or sometimes almost brown . <eos>
+Sally jumped into the big swimming pool with her feet going in first . <eos>
+All water birds have webbed feet which help them to swim very fast . <eos>
+A football field is 100 yards long, which comes to exactly 300 feet . <eos>
+A cow has four legs and four feet just the same as a horse does . <eos>
+My feet are slightly different in size so it is very difficult to find shoes that fit well . <eos>
+My tooth is loose . <eos>
+Betty is missing a tooth . <eos>
+It looks like a tooth . <eos>
+My mother bought tooth whitener . <eos>
+Larry has a shark's tooth . <eos>
+She loves brushing her teeth . <eos>
+Bite it with your teeth . <eos>
+Lori's teeth are very beautiful . <eos>
+That man's teeth are bad . <eos>
+Birds do not have teeth . <eos>
+I'll ask the dentist to fix this loose tooth . <eos>
+I cracked my tooth when I bit the ice cube . <eos>
+My tooth has been hurting very much lately . <eos>
+The boxer knocked out my tooth during the match . <eos>
+The scientist found a petrified dinosaur tooth . <eos>
+My grandfather has no teeth, so he wears dentures . <eos>
+ I brush my teeth three times a day on every day of the week . <eos>
+I went to the new dentist to have my teeth fixed . <eos>
+Elephants have very long teeth called tusks . <eos>
+Drinking too much coffee can darken one's teeth . <eos>
+Sam found a deer's tooth down by the little creek where deer often go . <eos>
+The little boy put his tooth under the pillow to receive money from the tooth fairy . <eos>
+Raymond has a silver tooth all the way in the back of his mouth . <eos>
+People often tend to forget how very important even one tooth really is . <eos>
+Sally likes to wiggle her loose tooth to make the younger children laugh . <eos>
+When Uncle Jim speaks, the space between his front teeth whistles . <eos>
+In olden times, Japanese women used to blacken their teeth as a sign of beauty . <eos>
+When an infant is first born, he or she will have no teeth at all . <eos>
+The hamster was afraid so it bit my finger with its little teeth . <eos>
+Tigers, lions, wolves, and bears have very sharp teeth called fangs . <eos>
+This child is still small . <eos>
+My child is in kindergarten . <eos>
+Her child sings as she walks . <eos>
+That child has a puppy . <eos>
+An unhappy child will often pout . <eos>
+Children love to play outdoors . <eos>
+Mary works with children . <eos>
+I brought presents for the children . <eos>
+All children need a good education . <eos>
+What beautiful children you have!
+The child grew very quiet when she heard the noise . <eos>
+When he was a child, he lived in many different places . <eos>
+When I was a child, I picked blackberries by the creek . <eos>
+Mr . <eos> Hunter's oldest child is going to a special music school . <eos>
+Most children are afraid of the dark . <eos>
+The children came running home with bright faces . <eos>
+During the summer, the children swim at the old pond . <eos>
+The children ate lunch and then took a nap . <eos>
+Many children in Europe can speak three or four languages . <eos>
+The children dressed in wonderful costumes for Halloween . <eos>
+As a child, I was taught by my mother to kneel by the bedside at night to pray . <eos>
+Almost every child would like to keep either a dog or a cat as a pet . <eos>
+It is normal for a child to learn to say a few words before learning to walk . <eos>
+One child brought a beautiful Easter egg dyed with many colors and sparkling with glitter . <eos>
+When Albert was a child, he had a lot of trouble learning to tie his shoes . <eos>
+Young children are very fond of coloring pictures with crayons in coloring books . <eos>
+At the zoo, the children enjoyed looking at all the animals, but especially the pandas . <eos>
+Children used to walk many long miles to school in all types of weather . <eos>
+The teacher took the children to the aquarium to show them many types of fish that live in the sea . <eos>
+In the past, many children crossed the western prairie of the U . <eos>S . <eos>in covered wagons with their parents . <eos>
+Isn't life grand?
+What kind of life is this?
+He wants a simple life . <eos>
+She likes to live the high life . <eos>
+Say good-bye to her old life . <eos>
+The war cost many lives . <eos>
+The king spared their lives . <eos>
+Our lives were better in the past . <eos>
+Hamsters have short lives . <eos>
+They've lived there all their lives . <eos>
+Life is lonely living on your own . <eos>
+There are many forms of life on Earth . <eos>
+Marine biology is the study of sea life . <eos>
+Jason believes that life exists on other planets . <eos>
+Sally decided to change her life by moving to Europe . <eos>
+The poor in every country lead miserable lives . <eos>
+They remembered that day for the rest of their lives . <eos>
+I really know nothing at all about those men's lives . <eos>
+Many people say that a cat has nine lives . <eos>
+How would you go about saving their lives?
+Life on the Mississippi is a famous book written by Mark Twain . <eos>
+Scientists still do not really know how life on Earth began . <eos>
+My life as a child growing up in Puerto Rico was one of the best experiences I have ever had . <eos>
+Village life in many developing countries is beset by poverty . <eos>
+Susan's life in Paris was filled with glamour and romance . <eos>
+When the tsunami hit, people had to run for their lives . <eos>
+The lives of many artists do not follow convention in the least . <eos>
+The movie "The Lives of Others" won an Academy Award . <eos>
+Our lives were more adventurous when we were young . <eos>
+Those who change the world for the better live lives that have real meaning . <eos>
+He picked a leaf off the tree . <eos>
+What a beautiful leaf . <eos>
+A leaf just fell . <eos>
+An oak leaf has an unusual shape . <eos>
+The birds played among the leaves . <eos>
+In spring the leaves are green . <eos>
+In autumn the leaves turn colors . <eos>
+They burned the leaves . <eos>
+Caterpillars eat leaves . <eos>
+There were leaves in her hair . <eos>
+The dead leaf is now curling at the edges . <eos>
+He pressed the leaf in the pages of an old book . <eos>
+A red maple leaf can be found on the Canadian flag . <eos>
+The baby laughed when shown the leaf . <eos>
+This leaf has some holes in it . <eos>
+The bright leaves blew in the strong wind . <eos>
+Deciduous trees shed their leaves annually . <eos>
+The cat hid behind the big pile of leaves . <eos>
+Dried bay leaves are often used in spaghetti sauce . <eos>
+All the leaves have fallen from the trees . <eos>
+In the forest I saw a cute, brown and white chipmunk standing on a fallen leaf . <eos>
+He showed me a white stone that contained an imprint of an ancient leaf . <eos>
+The botanist held the leaf from the rare tropical tree very gently within his fingers . <eos>
+When Sam picked up the leaf, he found a big spider hiding underneath . <eos>
+The squirrels scooted through the tree-tops rustling all the leaves as they went . <eos>
+As a child, I had to rake the leaves whenever my father told me to . <eos>
+Giraffes have very long necks in order to reach leaves on the tallest of trees . <eos>
+Silkworms are fed special leaves so that they are able to produce silken cocoons . <eos>
+Margaret and John are off in the woods gathering leaves to use for decorations . <eos>
+My sister knows how to make beautiful wreathes from many types of leaves . <eos>
+Tom's wife is kind . <eos>
+Please tell your wife . <eos>
+Does he have a wife?
+His wife left him . <eos>
+Whose wife is that?
+Denise called all the other wives . <eos>
+How many wives were there?
+All the wives gathered together . <eos>
+Many wives work outside the home these days . <eos>
+They all brought their wives . <eos>
+His wife is a lawyer at a big law firm just like him . <eos>
+A wife is a partner for life . <eos>
+In some countries a man can have more than one wife . <eos>
+His wife bakes delicious pies and cakes . <eos>
+A widower is a man whose wife has passed away . <eos>
+In the past, most wives stayed at home . <eos>
+The wives drank wine while the husbands grilled the meat . <eos>
+At the picnic some of the wives sat in the shade . <eos>
+Don't let any of the wives know about that . <eos>
+I saw their wives walking by the river . <eos>
+If I were you, I would buy a lovely present for my wife . <eos>
+Would you please ask your wife to make some of her special sauce for the party? 
+Sometimes a king's wife is a queen and sometimes only a princess . <eos>
+The general and his wife have lived in more than a dozen countries . <eos>
+Maurice's wife went to France for a visit because her mother is French . <eos>
+Most wives will tell you that housekeeping is a very difficult job . <eos>
+He has been married six times so that means he has had six wives . <eos>
+Some wives wish that their husbands didn't always have to work so late . <eos>
+The wives and the children were supposed to be seated first . <eos>
+Down through the ages, almost all wives have prayed for peace in the world . <eos>
+We will buy new scissors . <eos>
+Scissors are handy tools to have . <eos>
+She dropped the scissors . <eos>
+Who took the scissors outside?
+These old scissors do not work . <eos>
+Jane has many pairs of scissors . <eos>
+Those are big scissors . <eos>
+Where are my scissors?
+I use scissors at school . <eos>
+Jack has some scissors too . <eos>
+Where do you think you lost the scissors?
+Hana's father manufactures many types of scissors . <eos>
+How many pairs of scissors do you have?
+Scissors for children are not pointed at the ends . <eos>
+Linda is quite fond of collecting antique scissors . <eos>
+Jane has a pair of scissors with red handles . <eos>
+She puts out the scissors whenever she sews . <eos>
+The boy had a pair of toy scissors made out of plastic . <eos>
+Keep the scissors away from the smaller children . <eos>
+He has a pair of scissors made in France . <eos>
+Scissors are quite sharp so be very careful whenever you use them . <eos>
+You can't cut that very well with a knife, so please use your scissors instead . <eos>
+My grandmother keeps a very old pair of scissors in the bureau . <eos>
+If you want to buy a new pair of scissors, you should go to the stationery store . <eos>
+I cut my finger while using the scissors in a careless manner . <eos>
+Because someone left the scissors in the rain, they are now rusty . <eos>
+My grandfather used to sharpen our scissors on a whetstone . <eos>
+Scissors were first invented by the ancient Egyptians around 1500 B . <eos>C . <eos>
+Electricians use scissors that have rubber handles to prevent getting shocked . <eos>
+To make the party decorations, cut the colored paper with your scissors . <eos>
+Wipe your sneakers on the mat . <eos>
+Please don't wash your sneakers there . <eos>
+Why do you always wear sneakers?
+Baily has a pair of black sneakers . <eos>
+I like your sneakers . <eos>
+Who left their sneakers in the gym?
+He bought some basketball sneakers . <eos>
+I threw out my old sneakers . <eos>
+Sneakers are comfortable . <eos>
+There is a hole in my sneakers . <eos>
+The dog has chewed up my sneakers . <eos>
+Please take better care of your sneakers . <eos>
+Where did you get those wild, purple sneakers?
+The little boy spilled ice cream on his sneakers . <eos>
+Everybody should own a good pair of sneakers . <eos>
+She left her dirty sneakers outside . <eos>
+Be careful, your sneakers are untied . <eos>
+I've heard they manufacture special sneakers for women . <eos>
+Look, you've gotten paint all over your brand new sneakers . <eos>
+He loves his sneakers more than his regular shoes . <eos>
+My older brother got a job designing fancy, custom-made sneakers . <eos>
+Sally even bought a pair of special sneakers for her dog . <eos>
+Downtown, they’ve opened a special store that sells only sneakers . <eos>
+Sneakers for children are cute because they are so very small . <eos>
+She saved the sneakers she wore while winning the championship game . <eos>
+These sneakers are so soft I could wear them to sleep in . <eos>
+For his birthday he received new sneakers and a pair of walking shorts . <eos>
+Yes, you can find sneakers upstairs in the shoe department . <eos>
+In some countries they sell sneakers from stalls on the street . <eos>
+You can't throw out my sneakers because they are my favorite shoes . <eos>
+He wears blue pajamas . <eos>
+She forgot to pack pajamas . <eos>
+Pick up your pajamas . <eos>
+Those are very nice pajamas . <eos>
+Infants do not wear pajamas . <eos>
+Put away the winter pajamas . <eos>
+It's time to wash your pajamas . <eos>
+She tossed her pajamas on the bed . <eos>
+Patsy can't find her pajamas . <eos>
+Don't put on those old pajamas . <eos>
+Where did you buy that beautiful pair of pajamas?
+Martha saved her little boy's first pajamas as a keepsake . <eos>
+Why must you always throw your pajamas on the floor?
+Tom bought a crazy pair of polka-dot pajamas . <eos>
+What have you done with your pajamas?
+Instead of pajamas, some men used to wear nightshirts . <eos>
+Keep your clean pajamas in that chest of drawers . <eos>
+You can't wear those pajamas outside . <eos>
+On what floor will I find the pajamas?
+I brought my own pajamas to sleep in at the hospital . <eos>
+They sat in their pajamas all morning drinking coffee and talking about the trip . <eos>
+In the morning my mother always wears a robe over her pajamas . <eos>
+If I don't get some new pajamas soon, I don't know what I'll do . <eos>
+In summer in Japan some people wear a robe called a yukata instead of pajamas . <eos>
+Of course soldiers don't sleep in pajamas when they're on maneuvers . <eos>
+My sister always wears a nightgown because she doesn't like pajamas . <eos>
+I'm looking for some red-and-white-striped pajamas to wear on Christmas Eve . <eos>
+Don't you think it's time to take off your pajamas and get dressed?
+How about giving your brother some expensive pajamas for his birthday?
+On the trip, he bought a pair of lovely silk pajamas for his wife . <eos>
+That family raises sheep . <eos>
+The sheep are eating grass . <eos>
+We get wool from sheep . <eos>
+Dogs are used to herd sheep . <eos>
+The English are fond of sheep . <eos>
+A baby sheep is called a lamb . <eos>
+I saw some sheep on the ranch . <eos>
+Wolves often kill sheep . <eos>
+Mary wants to have a pet sheep . <eos>
+How many sheep do they have?
+Sheep are very gentle animals that cause no harm . <eos>
+A shepherd is a person who takes care of sheep . <eos>
+The children are playing in the field near the sheep . <eos>
+Fine wool from sheep is used to make sweaters . <eos>
+He saw many large flocks of sheep while in England . <eos>
+Many sheep can be found in the western United States . <eos>
+Most sheep are white but some are also black . <eos>
+Wild sheep are often hunted for sport . <eos>
+Sheep meat, called mutton, is often eaten during Easter . <eos>
+Male sheep that live in the mountains have very large horns . <eos>
+The rancher took his flock of sheep out into the green fields to graze on grass . <eos>
+In early spring the fleece is sheared from sheep and sold to make wool . <eos>
+In the Middle East the meat from sheep is used as a primary source of food . <eos>
+The sound that sheep make when they are afraid or hungry is called bleating . <eos>
+There are many factories in England that use the fleece from sheep to make woolen garments . <eos>
+The zoologists are trying to identify all of the species of sheep in the world . <eos>
+Thomas has decided to become a sheep rancher like his father when he grows up . <eos>
+In Christianity sheep are a symbol for humanity and the shepherd a symbol for Christ . <eos>
+In Australia, Great Britain, and the U . <eos>S . <eos>, flocks of sheep are put into pens at night . <eos>
+The average life-span for domesticated sheep is from ten to twelve years . <eos>
+Fish live in water . <eos>
+Fish are often kept as pets . <eos>
+Some fish swim very fast . <eos>
+They had fish for dinner . <eos>
+Tropical fish are colorful . <eos>
+I have two fish in a bowl . <eos>
+He bought a fish at the store . <eos>
+At the aquarium we looked at many fish . <eos>
+We caught fish from the creek . <eos>
+Sushi is raw fish . <eos>
+My father cleaned the fish when we came home . <eos>
+The manta ray is a very strange looking fish . <eos>
+Penguins everywhere live on a diet of fish . <eos>
+In seacoast cities one can find the most delicious fish . <eos>
+My mother rarely cooked fish for supper . <eos>
+On my uncle's farm was a pond containing many fish . <eos>
+A great variety of fish live in the world's oceans . <eos>
+Fresh fish with lemon butter is my favorite dish . <eos>
+Larger fish often eat smaller fish . <eos>
+Fish lay eggs in the water and wait for them to hatch . <eos>
+We had toasted tuna fish sandwiches with melted cheese for our lunch . <eos>
+Dolphins, porpoises, and whales are actually not fish but warm-blooded mammals . <eos>
+Jane loved Bob's tropical shirt, which was covered with patterns of various types of fish . <eos>
+In the very deep ocean there are fish with luminous colors on their bodies . <eos>
+In the mountains of California people catch trout, a fish that is delicious to eat . <eos>
+In Thailand, we enjoyed fresh fish and fruit in a restaurant situated on the beach . <eos>
+Tourists love to go to Tsukiji in Tokyo to see the most famous fish market in Japan . <eos>
+Margaret decided to become a marine biologist in order to study fish and other ocean creatures . <eos>
+Prehistoric fish were very odd-looking, and some even had armored scales . <eos>
+In the northern United States a fish called pike is caught for sport but never eaten . <eos>
+Every human needs food . <eos>
+Dogs eat food from a dish . <eos>
+My mother buys food at the store . <eos>
+James likes sweet food . <eos>
+They put the food in bags . <eos>
+We went to look for food . <eos>
+Take the food with you . <eos>
+Waiters serve food . <eos>
+My favorite food is pasta . <eos>
+Everyone needs healthy food . <eos>
+My uncle ate too much food at dinner . <eos>
+The food was brought on beautiful plates . <eos>
+Fishermen find food in the world's oceans . <eos>
+She prepared the food in a lovely manner . <eos>
+The campers did not bring enough food . <eos>
+Canned food is convenient but not tasty . <eos>
+In France people gather snails for food . <eos>
+We found plenty to drink but no food . <eos>
+Sheep and cows eat grass for food . <eos>
+In Asia rice is a primary food for most people . <eos>
+Bees construct beehives and turn pollen from flowers into food . <eos>
+Many wealthy people enjoy fancy food in fine restaurants . <eos>
+The market near my house no longer sells my favorite food . <eos>
+She is hard to please because she wants only the most expensive food . <eos>
+For most people, nothing is better than home-cooked food . <eos>
+I love the taste of certain special kinds of food in the autumn . <eos>
+Junk food had become too popular among many people these days . <eos>
+Are you going to have Japanese or Western food for breakfast?
+Many travelers cannot eat the local food easily so they lose weight . <eos>
+ I grow fruit . <eos>
+They love fruit . <eos>
+An orange is a fruit . <eos>
+That restaurant serves delicious fruit . <eos>
+Some fruit is as sweet as candy . <eos>
+She always has fruit for breakfast . <eos>
+Monkeys often eat fruit . <eos>
+Is fish healthier than fruit? 
+Sam does not like fruit . <eos>
+Many children picked the fruit . <eos>
+The men are having fruit with their dinner . <eos>
+Soon my mother will arrive with three boxes of fruit . <eos>
+Nicole discovered that fruit is popular everywhere . <eos>
+Which fruit has the most seeds inside of it?
+We kept the fruit cool in the refrigerator . <eos>
+There are many kinds of fruit in the world . <eos>
+Mark dislikes fruit that is hard to peel . <eos>
+Roberta and I baked a pie made from fruit . <eos>
+We always see red fruit in the autumn . <eos>
+As a child my favorite fruit was watermelon . <eos>
+Some stores and restaurants grow their own fruit on special farms . <eos>
+Mary thinks that the best seasons for fruit are summer and fall . <eos>
+Many kinds of fruit have tough skin on the outside that people throw away . <eos>
+Countries that sell fruit tend to have warm or mild climates . <eos>
+We searched for a whole week to find the rare fruit you mentioned . <eos>
+My grandmother put a lot of fruit in baskets on her table . <eos>
+In winter I cannot have as much fruit as I would like to have . <eos>
+They looked at pictures of fruit from all around the world . <eos>
+She decided to take the fruit outside and wash it with a hose . <eos>
+My uncle once traded his hat for three large pieces of fruit . <eos>
+In the past people gathered fruit and vegetables from nature . <eos>
+There is much information in books . <eos>
+I have no information about it . <eos>
+The policeman gave me that information . <eos>
+Tell the students to save the information . <eos>
+What information did you find out?
+She collects information about everyone . <eos>
+What kind of information do you want?
+There was very little information in the paper . <eos>
+Bill asked John for the information . <eos>
+That information is too old to be helpful . <eos>
+The explorers returned with valuable information . <eos>
+There is very little good information in that magazine . <eos>
+How should we use the information we gathered yesterday?
+He decided he needed to get more information about Argentina . <eos>
+Jane seemed shy, but she could find information about almost anything . <eos>
+We've decided to help you by getting the information to your parents . <eos>
+My Uncle Bill discovered information about himself online . <eos>
+The coach wanted to get more information about the opposing team . <eos>
+Kathryn told me you would like the information by Friday . <eos>
+They gave the information to students on a handout . <eos>
+We posted information about some famous 19th-century paintings on our website . <eos>
+The Internet is a valuable modern tool for finding information quickly . <eos>
+Whenever I need to buy something new, I search for information in a catalogue . <eos>
+Susan was very eager to obtain information about the buildings of ancient Rome . <eos>
+Did you make sure the customers received information about the new products? 
+Jason wrote to the embassy to ask for information for his trip to South America . <eos>
+I'm very curious about how engines work so will try to get that information soon . <eos>
+People gathered in the cafe to share news and exchange information . <eos>
+The Boy Scouts was begun in 1910 according to some information that I read . <eos>
+Many volunteers were there to pass out information concerning the upcoming election . <eos>
+He's paid a great amount of money . <eos>
+There is no money in the bank . <eos>
+Should I loan you some money? 
+She will use her money for a trip . <eos>
+We could not find the money . <eos>
+Aunt Helen always sends us money . <eos>
+He won a lot of money as a prize . <eos>
+Please remember to bring some money . <eos>
+Do they still have money left?
+How much money did Amber spend?
+The corporations made a great deal of money . <eos>
+The hikers found some money buried under a tree . <eos>
+No one I know has very much money . <eos>
+The ancient Romans minted coins as money . <eos>
+Can't you earn any money on your own? 
+She asked me not to waste my money . <eos>
+His mother is tired of him spending money foolishly . <eos>
+My father told me to put my money in a bank . <eos>
+Intelligent people use their money wisely . <eos>
+Everyone must somehow make money to survive . <eos>
+Jerry didn’t make enough money to go to Hawaii for his vacation last year . <eos>
+I will never let anyone know how much money I really have in the bank . <eos>
+If you would like to buy nicer things, then you should get money from a better-paying job . <eos>
+People who spend too much money end up losing everything they have . <eos>
+Jane was so kind to lend her friend some money to buy some new clothes . <eos>
+The president of the company claimed one of his employees stole the money . <eos>
+Even shells and beads were sometimes used as money in the distant past . <eos>
+Bill doesn't ever bet any money though he goes to the horseraces very often . <eos>
+She made a lot of money because she could sing and dance so well . <eos>
+Sally's parents wired her money so she could fly home for summer break . <eos>
+We bought some inexpensive furniture . <eos>
+Jack brought the furniture inside . <eos>
+My mother loves antique furniture . <eos>
+He makes furniture from wood . <eos>
+Do not damage the new furniture . <eos>
+Children's furniture is small . <eos>
+She cleans her furniture often . <eos>
+Robert doesn't like modern furniture . <eos>
+Let's get rid of the old furniture . <eos>
+The furniture was beautiful . <eos>
+The movers came to get the furniture . <eos>
+They put the broken furniture in the garage . <eos>
+John and his wife have sold furniture for years . <eos>
+The workmen covered the furniture with sheets . <eos>
+Mary likes furniture imported from Eastern Europe . <eos>
+Some people buy used furniture from thrift shops . <eos>
+I donated some furniture to the poor . <eos>
+He designs furniture for a living . <eos>
+Too much furniture makes a room look small . <eos>
+The store displayed the latest types of furniture . <eos>
+Which countries around the world manufacture the most furniture?
+I'm going to buy all my furniture in the huge, new department store that opened downtown . <eos>
+I visited a very large house in Spain that had the finest quality furniture in every room . <eos>
+Richard told me that the museum has a lot of ancient Egyptian furniture made with gold . <eos>
+One type of consumer goods that every newlywed couple must buy is furniture . <eos>
+After the tsunami, broken furniture along with many other items, was spread across the countryside . <eos>
+The average price of furniture made in Japan has risen steadily over the years . <eos>
+A special association was formed for the promotion of trade goods such as furniture and electronics . <eos>
+The men were arrested just across the border with seven truckloads of stolen furniture . <eos>
+I met a man yesterday who collects furniture from Mexico and Central and South America . <eos>
+She always drank milk when she ate cookies . <eos>
+Liam loved drinking milk . <eos>
+She could only drink soy milk . <eos>
+She forgot to add milk to the batter . <eos>
+She never really enjoyed the taste of milk . <eos>
+There is no more water . <eos>
+She was very thirsty and desperately needed water . <eos>
+She wanted nothing more than ice cold water . <eos>
+Water is essential for most living things . <eos>
+The water is very polluted . <eos>
+The tire is out of air . <eos>
+He breathed in the fresh air . <eos>
+She felt the cool air against her skin . <eos>
+There is no air in space . <eos>
+The air pollution was awful . <eos>
+She was very bad at mathematics . <eos>
+Frank loved mathematics . <eos>
+The mathematics exam was on Friday . <eos>
+He had aced the mathematics quiz . <eos>
+No one hated mathematics as much as John . <eos>
+The soccer equipment disappeared . <eos>
+Lucy cleaned up the chemistry equipment . <eos>
+She lost her softball equipment . <eos>
+He needed better equipment to fix the tire . <eos>
+There was no more equipment left . <eos>
+The physics lab was closed . <eos>
+Julie's favorite subject was physics . <eos>
+I did surprisingly well on the physics test . <eos>
+We did an interesting lab in physics class . <eos>
+Physics was one thing Sean liked . <eos>
+He could not understand the physics textbook . <eos>
+The physics professor was the nicest individual . <eos>
+Gravity is physics . <eos>
+Physics is used to understand the universe . <eos>
+He was very good at solving physics equations . <eos>
+I wanted some more food . <eos>
+I was looking for some water . <eos>
+Please leave some dessert for me . <eos>
+He wanted some of it . <eos>
+I saw some people outside . <eos>
+Some people already went home . <eos>
+Some students didn't come to class . <eos>
+Some people were angry . <eos>
+Angela wanted some advice . <eos>
+Some of her friends lived down the hall . <eos>
+Some students did not attend the revision session last week . <eos>
+There were some free samples of the perfume in the basket . <eos>
+The professor wanted some students to stay after class . <eos>
+Some children were very disrespectful towards their parents . <eos>
+He had some idea of where they were going . <eos>
+She had some doubts about her trip in the United States but it all ended well . <eos>
+In some areas, there were violent thunderstorms while other areas experienced beautiful weather . <eos>
+She had to provide some proof that she actually worked at the financial firm in 2012 . <eos>
+There are some conspiracy theories surrounding the government and aliens . <eos>
+There is some chance that the excursion to the national museum will be cancelled tomorrow . <eos>
+Do you want to watch any movies?
+Do you have any news?
+Does she have any experience?
+Are there any mistakes?
+Do you have any ideas?
+He wasn't allowed to have any alcohol . <eos>
+They didn't have any more cake left . <eos>
+She didn't have any clue . <eos>
+Do you have any last words?
+Any person can come in . <eos>
+She wanted any proof that he was the murderer . <eos>
+They didn't want him to have any doubts about his decision . <eos>
+She didn't like any of her colleagues at work . <eos>
+Any job was better than the one she had worked before . <eos>
+Amanda didn't make any progress in her essay . <eos>
+As long as Jack didn't have to drive the entire time, Jack was okay with any plan . <eos>
+In the interview, they were not allowed to ask personal information to any individual . <eos>
+They believed any help would be valuable in the reconstruction of the school policy . <eos>
+He was so athletic he could play any sport very well, even if he hadn't played it before . <eos>
+She wasn't able to communicate to anyone at the conference because she couldn't speak any English . <eos>
+This is my bag . <eos>
+My name is Alice . <eos>
+This is my cat . <eos>
+My word!  (= Oh my goodness!)
+Is that my pencil?
+It's my pleasure!
+It's my fault . <eos>
+It's my problem . <eos>
+It's not my idea of fun . <eos>
+Is it my turn?
+Are you wearing my sweater?
+I forgot my umbrella and now it's pouring with rain . <eos>
+Where did I put my keys?
+Would you feed my dog while I am gone?
+Do you like my new car?
+Hey! Is that my phone you are using?
+Please accept my apology . <eos>
+I have already made my decision . <eos>
+Shall we go to my place or yours to watch the DVD?
+I miss the way my mother laughed . <eos>
+My eldest son seems to be doing well at university . <eos>
+Can you come to my party next week in Hiroo?
+My classroom is on the first floor, the third door on the right . <eos>
+My favorite is the one about King Arthur and the Knights of the Round Table . <eos>
+What is it about my boots that makes the cat want to lick them?
+They wanted to hear about my travels around the world . <eos>
+My husband snores so much that I cannot sleep in the same room . <eos>
+I love the graphics on my new hands-free computer program . <eos>
+My phone kept ringing while I was driving but I couldn't answer it . <eos>
+I am willing to apologize but clearly this was not all my fault . <eos>
+Is this your card?
+How do you say your name? 
+What's your plan?
+I like your sister . <eos>
+Your cooking is wonderful . <eos>
+Finish your work . <eos>
+It's your fault!
+Thank you for your kindness . <eos>
+Is it your birthday?
+Where is your mother?
+Have you already had your lunch?
+Please introduce me to your friend . <eos>
+Is this your idea of a joke?
+I like your sense of humor . <eos>
+Please turn over your test papers now . <eos>
+Did you do your homework?
+Have you lost your mind?
+What do you want for your birthday?
+I'm sorry I forgot your shopping list . <eos>
+What is your favorite book?
+Your mother told me all about your new job when I called last night . <eos>
+Your test results from the blood work at the hospital will be ready tomorrow . <eos>
+I heard that your car was damaged in the earthquake . <eos>
+I can't believe you left your coat at home on such a freezing cold day . <eos>
+How often do you go back to your hometown?
+Did you remember to back up your hard drive before you installed the new OS?
+You must be tired from your long week and heavy workload . <eos>
+I donated your extra toys and books to the orphanage . <eos>
+The results in your research paper were very interesting and well written . <eos>
+Your house seems much warmer in the winter than mine . <eos>
+I know her family . <eos>
+Her name is Ayaka . <eos>
+This is her sister . <eos>
+Who's her friend?
+What's her name?
+That's her dog . <eos>
+She gave me her number . <eos>
+Here's her card . <eos>
+I met her family . <eos>

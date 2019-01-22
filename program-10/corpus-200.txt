@@ -1,0 +1,200 @@
+﻿The footstep was that of a teacher . <eos>
+His voice is louder than that of mine . <eos>
+My room is bigger than that of John's . <eos>
+His house is connected to that of Linda's . <eos>
+The voice was that of a singer . <eos>
+The smell was that of mother's pie . <eos>
+His house is larger than that of mine . <eos>
+Her foot is smaller than that of his . <eos>
+His is different than that of Miranda's . <eos>
+Liam's pie is better than that of Kyle's . <eos>
+The population of China is bigger than that of Japan . <eos>
+The climate here is very different from that of Sweden . <eos>
+Ryan's final score exceeds that of Robert's by 100 points . <eos>
+The work done here was that of Japanese craftsmen . <eos>
+The style of painting is similar to that of Picasso . <eos>
+His political view is very different from that of his parents . <eos>
+The way he speaks is similar to that of his sister . <eos>
+His determination was similar to that of a world leader . <eos>
+Amanda's costume was almost identical to that of Tasha's . <eos>
+His laugh was identical to that of his twin brother's . <eos>
+The conservative nature of the people of Japan is similar to that of a lot of other Asian countries . <eos>
+The food cooked by Aunt Suzy was extremely delicious and was similar to that of a five star chef . <eos>
+The way John played soccer was very skillful, and his style was very similar to that of Messi . <eos>
+He was so good at playing the piano, listening to him was the equivalent to that of a professional pianist . <eos>
+Japanese people, like that of American people, are very gourmet and enjoy exploring food from different parts of the world . <eos>
+Everyone knew that the loud sound coming from next door was that of Tom's guitar . <eos>
+Although her parents could not run, Anna was so good at running that it was similar to that of a professional track star . <eos>
+Although Ian is only 10 years old, his artwork is so refined and unique that it is almost better than that of professional artists . <eos>
+His style of dancing is very interesting because it is similar to that of a ballerina, but has the vigor and energy of hip hop . <eos>
+At first his opinion was always similar to that of his siblings, but as he grew older, he soon started developing his own, different opinions . <eos>
+He bought one . <eos>
+Sam got one . <eos>
+Linda built one very quickly . <eos>
+She wanted to eat one later . <eos>
+She took one and left . <eos>
+He finally got one from his mother . <eos>
+He got one and started eating it . <eos>
+I don't have one . <eos>
+He has one too . <eos>
+She finally found one . <eos>
+He needed one in order to be friends with Tom . <eos>
+There was one on the next street . <eos>
+One gave her flowers and one gave her chocolate . <eos>
+Many dogs were asleep but I found one that was awake . <eos>
+He took one from the shelf and left the kitchen . <eos>
+Can I have one for the next class?
+I'll just take one and leave the rest for you . <eos>
+She found one in her pocket but decided to keep it a secret . <eos>
+They were all cheap, except for one which was quite expensive . <eos>
+Although I saved a lot of money, I couldn't buy one . <eos>
+All the students were all there except for one, so the teacher started panicking . <eos>
+There are many local restaurants in NYC that celebrities often visit, and among them I have been to one in Brooklyn . <eos>
+Even if we were to combine all of our salaries together, we could never afford one . <eos>
+Not all people have one but I'm pretty sure if you are an American, it is likely that you will have a driver's license due to poor public transportation in the States . <eos>
+Most companies at the conference were from China or Korea, but there was one from Japan . <eos>
+If you need a taxi, you might find one down the street, but I would recommend walking to the next street . <eos>
+He loves action movies and there is one coming out soon that I know he will love for sure . <eos>
+Although Jake finally caught one he let it go because he felt bad . <eos>
+Finish eating the one on the table now and if you still want more I'll get you some . <eos>
+The restaurant next to our school is a popular one, and it is always busy with many students . <eos>
+Each person had a desk . <eos>
+Each child had a piece of cake . <eos>
+Each story is different from the others . <eos>
+Each room has an air conditioner . <eos>
+Each player on the team had different skills . <eos>
+Each lesson will cost you $50 . <eos>
+The children were each given one apple . <eos>
+Each team had a chance to play . <eos>
+Each student wore their uniform properly . <eos>
+Each sport has its pros and cons . <eos>
+Each student must talk for at least five minutes . <eos>
+Please give the same amount to each child . <eos>
+Each person must decide who to support in the election . <eos>
+Each college sent someone to represent their school . <eos>
+There was a parking space for each family member . <eos>
+Each bedroom in the house has its own private bathroom . <eos>
+Each of these countries has applied to host the Olympics . <eos>
+Each girl was given a beautiful sapphire necklace as a gift . <eos>
+In our neighborhood, each house has a large, beautiful garden . <eos>
+I bought a souvenir from each country that I visited this summer . <eos>
+My mother told me to think positively and think of each day as a new day full of opportunities . <eos>
+Each team is required to play five games in order to determine whether they can go to the finals or not . <eos>
+Each student is required to take general classes in addition to required classes according to their major . <eos>
+Each box contained something very important to child . <eos>
+In college, different schedules are given to students in each department . <eos>
+The master ordered the servants to save each letter he received very carefully . <eos>
+His wealth was reflected by the beautiful furniture in each room, which was from different parts of the world . <eos>
+Each ingredient in the vegetarian dish is organic and comes from a different store . <eos>
+Each medal and award reflects Jamie's skill and dedication in dancing . <eos>
+Every student finished the homework . <eos>
+Every parent loves their child . <eos>
+The train stopped at every station . <eos>
+Every student was afraid of Mr . <eos> Smith . <eos>
+Every child sat still . <eos>
+She took home every present she got . <eos>
+Their song was playing in almost every store . <eos>
+Every professor had to take attendance . <eos>
+I've read every book on the shelf . <eos>
+Every house looked beautiful . <eos>
+Every girl loved the new, British rock band . <eos>
+Every man in the room agreed to help rebuild the school . <eos>
+Every car goes through many tests and examinations before being sold . <eos>
+Every computer was going to be replaced with Apple computers . <eos>
+He has been to almost every country in the world . <eos>
+The room was so quiet I could hear every sound clearly . <eos>
+Every bee was working hard to make honey . <eos>
+She is such a good speaker I heard every single word . <eos>
+Every song the seniors sang at their graduation was beautiful . <eos>
+There were beautiful flowers in every room of the hospital . <eos>
+It seemed like when I visited Japan, every girl had dyed hair . <eos>
+Every good cook knows how to combine flavours to create delicious meals . <eos>
+Every store in Japan seemed to have wonderful lighting and decorations . <eos>
+Every child drank lots of water after they came back inside from playing outside . <eos>
+The news about the train crash was so big and devastating, it was in every newspaper . <eos>
+Every celebrity agrees that paparazzi can be extremely annoying and persistent . <eos>
+Every teacher should be determined to help their students improve and see them grow . <eos>
+Every neighbor cooperated in order to catch the culprit who kept taking everyone's flowers . <eos>
+Every politician must face harsh criticism and opposition from many people . <eos>
+There is no way he finished every assignment the professor gave us in that amount of time . <eos>
+All of them went home . <eos>
+All of you should leave . <eos>
+All of them are here . <eos>
+You must eat all of it . <eos>
+I can't finish all of this homework . <eos>
+I watched all of it . <eos>
+All of these stories are false . <eos>
+I can't read all of these books . <eos>
+She listened to all of the songs . <eos>
+She wanted all of it . <eos>
+I couldn't answer all of the questions . <eos>
+I couldn't finish watching all of the movies . <eos>
+She observed all of the people crossing the Shibuya cross walk . <eos>
+I knew all of them very well since middle school . <eos>
+All of the women in the room were dressed nicely . <eos>
+John was careless last night and lost all of his money . <eos>
+Not all of them wanted to keep playing . <eos>
+All of these are unfinished so you cannot go home . <eos>
+All of the children ate ice cream under the hot sun . <eos>
+There is no way I can take all of these home . <eos>
+All of these must either be sold or thrown away because we don't have space in our new house . <eos>
+All of the students were determined to finish finals and go home for summer break . <eos>
+All of the cleaners finished cleaning the hospital in a couple hours . <eos>
+The penguins were very adorable and all of them were swimming playfully . <eos>
+White tigers are very rare and if people don't stop hunting them, all of them would die . <eos>
+It was past 9 o'clock at night so all of the restaurants were closed . <eos>
+All of the professors got together at the end of the semester to discuss how their classes went and what they could improve on . <eos>
+My peers were listening to me seriously as I presented, and all of them were vigorously taking notes . <eos>
+All of the children laughed as they watched Mickey Mouse chase Donald Duck around the amusement park . <eos>
+All of them came back from France with many gifts for their friends and family . <eos>
+I bought both of them . <eos>
+Both of them came on time . <eos>
+They chased after both of us . <eos>
+Both of them looked like their mother . <eos>
+Both of them finished their homework . <eos>
+He spoke to both of us . <eos>
+I want to talk to both of you . <eos>
+Both of their families had dinner together . <eos>
+Both of you are late . <eos>
+He gave a gift to both of us . <eos>
+Both of them wanted to watch the TV . <eos>
+He glared at both of us and then slammed the door . <eos>
+I saw both of the cars ignore the stop light . <eos>
+Both of you must fill out the survey . <eos>
+Both of you can't go out until you finish your homework . <eos>
+Both of my grandparents passed away before I was born . <eos>
+Both of the singers were competing against each other . <eos>
+Both of them were determined to learn a new language . <eos>
+I trust you to keep both of us out of danger . <eos>
+Both of them watched the movie in amusement . <eos>
+I'll keep both of these in my room while you're out tonight . <eos>
+Lennie and Adam loved playing baseball, so both of them tried out for the team . <eos>
+Both of us were required to write a thorough report on our experimental procedure . <eos>
+Both of my friends will be studying abroad next year so I am a little sad . <eos>
+I remember Aunt Jess taking both of us to the movies every Saturday . <eos>
+It was wonderful to have both of you join us for dinner tonight . <eos>
+Both of my sisters go to college in the States so my parents feel like they only have one daughter . <eos>
+We were notified five minutes ago that both of them are safe and already at the hospital . <eos>
+Both of their families were very engaged in volunteer work, and often organized charity events . <eos>
+After Tom and John spent days persuading the president of the Japanese student organization at NYU, he finally agreed with both of them . <eos>
+Either Daniel or Liam will take you . <eos>
+Either of these will be fine . <eos>
+Have either of you seen Karen?
+You can't speak to either of them . <eos>
+I don't know either Emma or Amanda . <eos>
+Have you been to either France or Italy?
+I haven't seen either of them recently . <eos>
+Have either of you guys finished the homework?
+I don't agree with either of them . <eos>
+Either they leave or I will . <eos>
+Do you think we can ask either of them for advice?
+I don't think either case will fit that smartphone . <eos>
+I don't believe what either of the candidates are saying . <eos>
+No matter what they say, I don't trust either of them . <eos>
+I don't like either William or George because they are aggressive . <eos>
+Do you truly believe what either of them are saying?
+He obviously did not understand either of the assignments . <eos>
+I refused to take care of either Scott or Henry . <eos>
+Either finish now or do it tonight instead of going to the movie . <eos>
+By midnight, you must either be in bed or have a very good reason not to be . <eos>
+I don't think either of us will make it to the final round . <eos>
