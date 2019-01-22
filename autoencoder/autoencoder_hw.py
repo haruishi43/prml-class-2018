@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# オートエンコーダ（MNIST）
+# オートエンコーダ
 
 import sys
 import os
@@ -64,7 +64,7 @@ class Outunit:
 
     def Error(self, t):
         # 誤差
-        f_ = 1
+        f_ = Sigmoid_(self.u)
         delta = ( self.out - t ) * f_
 
         # 重み，閾値の修正値
@@ -109,7 +109,7 @@ class Hunit:
 
     def Error(self, p_error):
         # 誤差
-        f_ = 1
+        f_ = Sigmoid_(self.u)
         delta = p_error * f_
 
         # 重み，閾値の修正値
@@ -209,8 +209,8 @@ def Train():
                 r_error = np.dot((r_outunit.out - r_teach), (r_outunit.out - r_teach).T)
                 g_error = np.dot((g_outunit.out - g_teach), (g_outunit.out - g_teach).T)
                 b_error = np.dot((b_outunit.out - b_teach), (b_outunit.out - b_teach).T)
-                # error += (r_error + g_error + b_error)
-                error += r_error
+                error += (r_error + g_error + b_error)
+                
         print(e, "->", error)
 
     # 重みの保存
@@ -236,7 +236,7 @@ def Predict():
     b_hunit.Load("data/b-hw-hunit.npz")
 
     # 混合行列
-    result = np.zeros((class_num, class_num), dtype=np.int32)
+    #result = np.zeros((class_num, class_num), dtype=np.int32)
     
     for i in range(class_num):
         for j in range(0, train_num):
@@ -286,12 +286,12 @@ def Predict():
 
                 # 元画像の表示
                 plt.subplot(1,2,1)
-                plt.imshow(original_image, cmap='RGB')
+                plt.imshow(original_image)
                 plt.title( "Original Image" )
                 
                 # 復元画像の表示
                 plt.subplot(1,2,2)
-                plt.imshow(prediction_image, cmap='RGB')
+                plt.imshow(prediction_image)
 
                 # 画像の保存
                 plt.title( "Decode Image(" + str(i) + "," + str(j) + ")" )
@@ -348,7 +348,7 @@ if __name__ == '__main__':
     # 引数がpの場合
     elif argvs[1] == "p":
 
-        os.system("del fig/*.png")
+        # os.system("del fig/*.png")
         
         # テストデータの読み込み
         flag = 1
